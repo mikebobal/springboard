@@ -1,0 +1,12 @@
+Model Metrics
+
+Model:
+pmd ARIMA (1,0,1) (0,1,1,7)
+
+With features:
+Number of promotional items per product/store/day
+Fourier terms for yearly, monthly, bimonthly, biweekly, and weekly
+
+Final model performance:
+Conglomerate R^2: 0.484
+Conglomerate MAPE: 18.14
